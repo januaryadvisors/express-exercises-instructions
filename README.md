@@ -51,7 +51,7 @@ Create an endpoint `/api/vegetable/pairs-with`. The endpoint should allow a user
 
 ## Submitting
 
-Please zip/compress all files excluding the node_modules folder and email it to `kelsey@januaryadvisors.com and emi@januaryadvisors.com`.
+Please zip/compress all files excluding the node_modules folder and upload it to the Google Drive folder we shared with you.
 
 Thank you very much for taking the time to participate! If you have any questions, feel free to email `kelsey@januaryadvisors.com and emi@januaryadvisors.com`.
 
